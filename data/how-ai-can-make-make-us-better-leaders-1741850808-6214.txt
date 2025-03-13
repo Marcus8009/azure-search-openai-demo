@@ -1,0 +1,81 @@
+=== TRANSCRIPT ===
+
+No transcript found.
+
+=== PAGE CONTENT ===
+
+by Rasmus Hougaard and Jacqueline Carter
+
+Humans have always been better at inventing tools that change the way we live and work than adapting to the big changes these tools cause. Consider for a moment how the internet has given us instant access to gigabytes of data and yet has made us more distracted. Or how social media has enabled us to be more connected than ever, and yet can also alienate or isolate us.
+
+In the same way, AI has the potential to enhance the human experience of work, or it could lead us into an automated, robotic, overwhelming, and uninspiring work reality. Which will it be?
+
+We have spent 15 years helping large companies create a more human world of work through our research and solutions increasing awareness, wisdom and compassion in leadership. When use of AI in the workplace accelerated with the launch of generative AI, our reaction was a mix of curiosity and concern. We were curious about the potential and concerned about the implications for people, so we launched a new research initiative which will be published in our forthcoming book. We have completed in-depth interviews of more than 100 CEOs, chief people officers, chief learning officers, and other senior leaders from companies like Accenture, Cisco, Starbucks, Citibank, Eli Lilly, IKEA, Visa, and more. We have also met with numerous leading AI experts and completed 360 surveys of more than 2,500 leaders and employees from around the globe.
+
+In contrast to much of the anxious debate and prognostication around generative AI, this research caused us great excitement as we discovered that, paradoxically, AI can help make leaders more human – that despite its challenges and risks, AI has the potential to catalyze a new age of human leadership. As Nhlamu Dlomu, global head of people at KPMG, shared with us: “With the power, promise, and potential of AI, leaders have a rare opportunity of rethinking and redefining how we work and how we lead. We can choose to make the experience of work more positive for ourselves and the people we lead and simultaneously improve financial results.”
+
+Humans have a history of introducing new, time-saving technologies into the workplace and instead of gaining more time, we fill the void with more work. But what if, in addition to AI helping us save time on tactical activities, it also allowed us to redirect our focus to how we make people feel?
+
+Humans are wonderful creatures. We can be smart, creative, and kind. But we can also be messy, inconsistent, and imperfect. We can have clear leadership values, but that doesn’t mean we always follow them. We might have aspirations to show up in a certain way, but that doesn’t mean we always do.
+
+AI can help us be less messy and more consistent. It can help us elevate the best of our humanness. As Paul Daugherty, Accenture’s chief technology and innovation officer and author of Human + Machine: Reimagining Work in the Age of AI, told us, “Through strategic application of AI systems and tools, leaders can cultivate their best human qualities and human areas of leadership.”
+
+One way to think of it: AI can be like an exoskeleton for the mind and heart of a human leader. While this notion may bring to mind the image of Iron Man from the world of Marvel comics and movies, the idea here is a variation: Just like an exoskeleton strengthens the physical body of a human, AI can strengthen our cognitive, emotional and social powers. Intellectually, it can enhance cognitive prowess, allowing you to process vast amounts of information swiftly and make good decisions. Emotionally, AI can help deepen your understanding of an employee and advise you on the best path forward. Socially, AI can help you understand team dynamics and foster diverse thinking and psychologically safe environments.
+
+However, as great as AI can be, alone it cannot make us better leaders. Relying only on AI, without doing the inner work of human development would be like buying a top-of-the-line Ferrari while ignoring our driving skills. To get the best from AI, we need to equally invest in the development of our human potential. Alone, neither is sufficient. Both are necessary. Harnessing the power of AI starts with embracing the idea of augmentation.
+
+In the history of work, we have moved through the agricultural, industrial and information ages and have now entered the age of augmentation. In all of the past ages, the tools we used were passive. Like a shovel to dig a hole or an email system to share information, these tools were dormant until we chose to use them. But with AI, we have moved into a new era where our tools are actively interacting with us in ways that change how we perceive and engage with the world. Instead of waiting to be used, AI tools are continuously listening, analyzing, learning, and predicting what we want or what we need. AI can now read and write for us, identify our strengths and weaknesses, and shape or curate our media diet. It influences what we learn, think, do, and say.
+
+Augmentation is defined as the process of enhancing or improving something by adding to it. Whether you realize it or not, you’re already augmented in many ways. Quick, how many phone numbers of friends can you remember? Probably not many – and that’s because you use your smartphone to augment your memory. AI augmentation occurs when we use AI to augment our perception, our discernment, or our actions.
+
+The key principle of augmentation, in the context of AI and leadership, is to adopt a both/and mindset. While the rise of AI has prompted a reflexive shift in focus to the technology itself, the truth is, in order to successfully adapt to and benefit from AI, you must leverage both the power of AI and develop your most human qualities. The AI-augmented leader is a both/and leader who brings the best of both human and machine to their leadership practice. Our new research offers a vision of the future of leadership that is deeply rooted in humanness – indeed that is made even more human with the power of AI. But to do that, we first need to understand what we mean by “humanness” and the essence of this is in the mind of the leader.
+
+To enable synergistic collaboration between AI and human, we must first understand how the human mind operates. From a neurological perspective, almost all scientific cognitive models of our mind have three qualities: We perceive, we discern, and then we respond. In the context of our work with leaders and companies cultivating good leadership, we call these three qualities awareness, wisdom, and compassion.
+
+Awareness is the perceptual capacity of the mind to observe internal and external experiences. Awareness enables leaders to move from perception to perspective. It involves a deep understanding of oneself, others, and the broader environment. This deep awareness of self and other helps leaders to navigate complex interpersonal and organizational dynamics with clarity and insight.
+
+Wisdom is the discerning capacity of the mind to form sound judgment by understanding reality as it is, free of limitations of the ego. Accrued from generations of experiences, learning, and reflection, wisdom allows leaders to make decisions that balance short-term gains with long-term sustainability and ethical considerations.
+
+Compassion is the responsive capacity of the mind to provide genuine care, with the intention of being of benefit to others and contributing to the greater good. Compassion is the ability to empathize and act with sensitivity towards others’ emotions and needs. Compassion provides the layer of human touch to leadership, ensuring that when leaders act, they do so in ways that help employees feel respected and valued.
+
+Our past work and current research at Potential Project has shown conclusively that leaders with high levels of awareness, wisdom, and compassion are able to provide the foundation of good leadership and generate improved performance and offer a better experience for the people they lead. But what does that mean when we pair human leadership with AI?
+
+The AI-augmented leader is one who integrates the use of AI into their leadership in ways that enhance and expand positive, human impact. They both develop the three core human qualities of awareness, wisdom, and compassion, and they embrace the best of both human and AI. How does this work?
+
+In contrast to AI, awareness is a uniquely human quality evolved through millions of years of evolution. It enables us to see things in perspective and provide context. On the other hand, AI has a vast capacity for generating content in ways and at speeds that humans can’t match. The AI-augmented leader can skillfully provide context to AI-generated content.
+
+Also, in comparison to AI, wisdom is the quality with which humans leverage insight, experience, critical thinking, and social and emotional intelligence to ask good questions. Conversely, AI excels at providing answers based on enormous amounts of data and information. The AI-augmented leader uses wisdom to ask thoughtful questions while wisely discerning the answers provided by AI.
+
+Finally, distinct from AI, compassion is our unique human capacity to have an intention to benefit those you are with by leading with heart. AI can greatly contribute to doing this skillfully by providing algorithmic knowledge and insights. The AI-augmented leader can leverage the algorithmic power of AI to analyze vast amounts of employee data and then provide an authentic, heartfelt, human experience.
+
+See more HBR charts in Data & Visuals
+
+Our studies looked closely at the above pairings and leaders’ ability to leverage the best of human and AI. What we found: leaders with high awareness, wisdom, and compassion are far more ready to become AI-augmented leaders. These leaders are superior in leveraging their human strength in both providing context and identifying AI content relevant to current goals. They are excellent at both asking insightful questions and discerning answers provided by AI. And they are masters at both leading with heart and leveraging insights from AI algorithms.
+
+See more HBR charts in Data & Visuals
+
+The graph shows the percent of observers who rate their leaders as high on awareness, wisdom and compassion and who indicate that these leaders embody key AI-augmented leadership skills. For example, 88% believe these leaders excel at providing context, aiding in the understanding of communication. Additionally, 87% agree that these leaders are adept at identifying relevant information. They are also seen as effective in asking thought-provoking questions, with 78% noting this skill. In terms of emotional leadership, 82% agree that these leaders demonstrate leading with heart. In short, leaders with high awareness, wisdom, and compassion are perfectly suited for stepping into the future by leveraging both the powers of AI and their own human qualities.
+
+What might this look like in practice? Consider how an AI-augmented leader could leverage the best of both human and AI in the context of preparing for a difficult conversation. You can start with the human strength of setting context by considering why you need to have this conversation and what’s important to accomplish with the other person. Then, in light of your own human limitations in terms of emotions and biases, seek to leverage the strengths of AI content with assessment and analysis of the situation and the person. You can seek recommendations on how to engage in the conversation or engage in role play with AI agents. But before engaging in the conversation, you can reflect on the limitations of AI (including the fact that AI can also reflect biases – those of its creators) and apply critical human thought and judgment to ensure you’re bringing the best of your humanity to the situation.
+
+Through such a process of leveraging the strengths of human and AI and seeking to overcome the limitations of both, we can become better prepared to engage in the conversation with greater clarity and care. And, we are more likely to have better outcomes than if we had done it on our own (without leveraging AI) or had relied completely on AI. This is how AI enhances our leadership and helps us get the best of both AI and human leadership.
+
+The introduction of AI into the world of work is a major inflection point. AI, like any other tool, is an amplifier, in this case one that has the potential to do both great harm and great good in the world of work. Our research has clearly shown that AI can point us to a new, exciting era of human leadership. As articulated by Brandon Carson, chief learning officer at Starbucks: “In the age of AI, leaders are becoming the conduits of what it means to be human at work. Their prime task will become to create human connections and experiences at every moment of people’s careers.”
+
+The future will be infused with and powered by AI – of that there is no doubt. To make the most of this future, we should all aspire to become even better human leaders enhanced and augmented by AI.
+
+Editor’s Note (June 12, 2024): The second graphic and the paragraph following it have been updated to clarify that the numbers indicate the percentage of respondents who answered.
+
+Explore HBR
+
+HBR Store
+
+About HBR
+
+Manage My Account
+
+Follow HBR
+
+Harvard Business Publishing:
+
+Copyright ©2025 Harvard Business School Publishing. All rights reserved. Harvard Business Publishing is an affiliate of Harvard Business School.
