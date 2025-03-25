@@ -32,7 +32,7 @@ If you cannot answer the question using the sources below, say you don't know.
 
 Cite your sources using square brackets with filenames, e.g., [filename.pdf].
 If multiple facts come from the same source, group them together under a single citation.
-
+{{ injected_prompt }}
 {% endif %}
 
 {% if include_follow_up_questions %}
