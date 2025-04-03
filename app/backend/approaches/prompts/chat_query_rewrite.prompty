@@ -6,12 +6,12 @@ model:
     parameters:
         tools: ${file:chat_query_rewrite_tools.json}
 sample:
-    user_query: Does it include hearing?
-    past_messages:
-        - role: user
-          content: "What is included in my Northwind Health Plus plan that is not in standard?"
-        - role: assistant
-          content: "The Northwind Health Plus plan includes coverage for emergency services, mental health and substance abuse coverage, and out-of-network services, which are not included in the Northwind Standard plan. [Benefit_Options.pdf#page=3]"
+    user_query: Does it include predictive analysis?
+past_messages:
+  - role: user
+    content: "How can AI be used to improve the quality and consistency of Heineken’s beer during the brewing process?"
+  - role: assistant
+    content: "Heineken can use AI to monitor variables like fermentation time, temperature, and pH levels in real-time. AI models can detect anomalies and suggest adjustments to maintain consistent quality across breweries. [Heineken_AI_Brewing.pdf#page=5]"
 ---
 system:
 Below is a history of the conversation so far, and a new question asked by the user that needs to be answered by searching in a knowledge base.
