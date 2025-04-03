@@ -138,7 +138,7 @@ var chatGpt = {
   deploymentName: !empty(chatGptDeploymentName) ? chatGptDeploymentName : 'chat'
   deploymentVersion: !empty(chatGptDeploymentVersion) ? chatGptDeploymentVersion : '0125'
   deploymentSkuName: !empty(chatGptDeploymentSkuName) ? chatGptDeploymentSkuName : 'Standard'
-  deploymentCapacity: chatGptDeploymentCapacity != 0 ? chatGptDeploymentCapacity : 30
+  deploymentCapacity: chatGptDeploymentCapacity != 0 ? chatGptDeploymentCapacity : 29
 }
 
 param embeddingModelName string = ''
