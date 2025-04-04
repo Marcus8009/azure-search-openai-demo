@@ -16,10 +16,10 @@ class ChatUser(HttpUser):
         time.sleep(self.wait_time())
         first_question = random.choice(
             [
-                "How is Heineken using AI to optimize global operations and supply chain logistics?",
-                "What AI technologies has Heineken adopted for enhancing customer engagement and brand marketing?",
-                "How can AI be used to improve the quality and consistency of Heineken’s beer during the brewing process?",
-                "How does Heineken leverage AI to forecast retail demand and boost product placement in stores?",
+                "What is included in my Northwind Health Plus plan that is not in standard?",
+                "What does a Product Manager do?",
+                "What happens in a performance review?",
+                "Whats your whistleblower policy?",
             ]
         )
 
