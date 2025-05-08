@@ -115,9 +115,9 @@ param chatGptDeploymentCapacity int = 0
 var chatGpt = {
   modelName: !empty(chatGptModelName)
     ? chatGptModelName
-    : startsWith(openAiHost, 'azure') ? 'gpt-35-turbo' : 'gpt-3.5-turbo'
+    : startsWith(openAiHost, 'azure') ? 'gpt-4.1-nano' : 'gpt-4.1-nano'
   deploymentName: !empty(chatGptDeploymentName) ? chatGptDeploymentName : 'chat'
-  deploymentVersion: !empty(chatGptDeploymentVersion) ? chatGptDeploymentVersion : '0125'
+  deploymentVersion: !empty(chatGptDeploymentVersion) ? chatGptDeploymentVersion : '2025-04-14'
   deploymentSkuName: !empty(chatGptDeploymentSkuName) ? chatGptDeploymentSkuName : 'Standard'
   deploymentCapacity: chatGptDeploymentCapacity != 0 ? chatGptDeploymentCapacity : 30
 }
@@ -135,14 +135,6 @@ var embedding = {
   deploymentSkuName: !empty(embeddingDeploymentSkuName) ? embeddingDeploymentSkuName : 'Standard'
   deploymentCapacity: embeddingDeploymentCapacity != 0 ? embeddingDeploymentCapacity : 30
   dimensions: embeddingDimensions != 0 ? embeddingDimensions : 1536
-}
-
-var gpt4v = { // Define as var since params are removed
-  modelName: 'gpt-4o'
-  deploymentName: 'gpt-4o'
-  deploymentVersion: '2024-08-06'
-  deploymentSkuName: 'Standard'
-  deploymentCapacity: 10
 }
 
 
