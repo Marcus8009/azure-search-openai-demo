@@ -219,7 +219,7 @@ param useLocalHtmlParser bool = false
 param useAiProject bool = false
 
 var abbrs = loadJsonContent('abbreviations.json')
-var resourceToken = 'aiconnect'
+var resourceToken = 'marcus'
 var tags = { 'azd-env-name': environmentName }
 
 var tenantIdForAuth = !empty(authTenantId) ? authTenantId : tenantId
